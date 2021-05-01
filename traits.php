@@ -2,7 +2,7 @@
 trait A 
 {
     public $a;
-    public function testa()
+    public function a()
 {
     
 }
